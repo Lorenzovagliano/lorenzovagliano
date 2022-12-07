@@ -2,9 +2,9 @@
 * Learning OOP and Android development
 * Getting used to git and source control
 <div>
-  <a href="https://github.com/LorenzoVagliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenzoVagliano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLorenzoVagliano&langs_count=8&theme=gotham"/>
+  <a href="https://github.com/Lorenzovagliano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenzovagliano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLorenzovagliano&langs_count=8&theme=gotham"/>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="28" width="47" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
